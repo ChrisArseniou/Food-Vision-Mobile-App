@@ -3,15 +3,15 @@
 FoodVision is a Flutter mobile app that analyzes pictures of food and provides estimated nutritional information such as calories, protein, carbs, and fats. It connects to an external Python backend powered by Google Gemini AI for image analysis.
 
 We can either take a picture from our phone, or find a picture from our collection.
-<img src="https://github.com/user-attachments/assets/ddbca113-6d45-425f-bb9b-6f89132bbe86" width="300" height="300">
+<img width="400" height="400" alt="initial" src="https://github.com/user-attachments/assets/ddbca113-6d45-425f-bb9b-6f89132bbe86" />
 
 Clicking analyze the app interacts with the backend and with GEMINI.
-<img src="https://github.com/user-attachments/assets/ce6d2470-76d5-487d-a867-746d184cceb1" width="300" height="300">
+<img width="400" height="400" alt="initial" src="https://github.com/user-attachments/assets/ce6d2470-76d5-487d-a867-746d184cceb1" />
 
 After that, we get our results, that include a review of our food, calories, and nutrition breakdown of our food.
-<img src="https://github.com/user-attachments/assets/11bb6c84-b255-4141-8b95-8494adba9ef0" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/75aa528e-0458-4311-8876-82b403b68e24" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/23b69081-fe34-436d-8a51-467ce6f76f65" width="300" height="300">
+<img width="400" height="400" alt="initial" src="https://github.com/user-attachments/assets/11bb6c84-b255-4141-8b95-8494adba9ef0" />
+<img width="400" height="400" alt="initial" src="https://github.com/user-attachments/assets/75aa528e-0458-4311-8876-82b403b68e24" />
+<img width="400" height="400" alt="initial" src="https://github.com/user-attachments/assets/23b69081-fe34-436d-8a51-467ce6f76f65" />
 
 ## Features
 
